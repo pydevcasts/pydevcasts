@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/pydevcasts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pydevcasts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pydevcasts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pydevcasts/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/pythoncasts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/pythoncasts" height="30" width="40" /></a>
+<a href="https://instagram.com/pythoncasts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/pythoncasts" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siyamak1981@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siyamak1981@gmail.com" height="30" width="40" /></a>
 </p>
 
