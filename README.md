@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a seasoned backend developer with a strong expertise in Python and Django. With over 10 years of experience in the field, I have a proven track record of delivering high-quality, scalable, and efficient backend solutions for a variety of projects.
+🔭 I’m Siyamak Abasnezhad<br>👯 I’m Back-End Developer<br>🤝 I'm working with Python language and Django web framework<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ I am a seasoned backend developer with a strong expertise in Python and Django. 
 ![](https://github-readme-stats.vercel.app/api?username=pydevcasts&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pydevcasts&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pydevcasts&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pydevcasts&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pydevcasts&limit=5&theme=dark&combine_all_yearly_contributions=true)
