@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Siyamak Abasnezhad<br>👯 I’m Back-End Developer<br>🤝 I'm working with Python language and Django web framework<br>
+🔭 I’m Siyamak Abasnezhad<br>👯 I’m Data Scientist | Full Stack Developer<br>🤝 I'm working with Python language and Django web framework<br>
 
 
 ## 🌐 Socials:
