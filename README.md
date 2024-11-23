@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Siyamak Abasnezhad<br>👯 I’m Data Scientist | Full Stack Developer<br>🤝 I'm working with Python language and Django web framework<br>
+🔭 I’m Siyamak Abasnezhad<br>👯 I’m Data Scientist | Full Stack Developer<br>🤝 I'm working with Python language and Django and Vue.js web framework<br>
 
 
 ## 🌐 Socials:
@@ -17,6 +17,9 @@
 
 ---
 [![Check out pydevcasts's profile on stardev.io](https://stardev.io/developers/pydevcasts/badge/languages/global.svg)](https://stardev.io/developers/pydevcasts)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=pydevcasts&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
