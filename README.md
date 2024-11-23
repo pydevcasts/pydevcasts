@@ -16,10 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pydevcasts&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Check out pydevcasts's profile on stardev.io](https://stardev.io/developers/pydevcasts/badge/languages/global.svg)](https://stardev.io/developers/pydevcasts)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=pydevcasts&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
