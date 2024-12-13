@@ -6,7 +6,6 @@
 🇮🇷 My nationality is Iranian<br>
 📞 Contact: (+98) 930 494 3348 (WhatsApp, Telegram)<br>
 📧 Email: pydevcasts@gmail.com<br>
-🌐 GitHub: https://github.com/pydevcasts<br>
 🔗 LinkedIn: https://linkedin.com/in/pydevcasts/
 
 ## Personality Description
