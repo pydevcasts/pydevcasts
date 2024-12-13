@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m Siyamak Abasnezhad<br>👯 I’m Data Scientist | Full Stack Developer<br>🤝 I'm working with Python language and Django and Vue.js web framework<br>
+🔭 I'm Siyamak Abasnezhad Torki<br>
+👯 I'm a Data Scientist and Full Stack Developer<br>
+🤝 I'm proficient in Python, Django, and Vue.js web framework<br>
+🌍 I live in Babol City, Mazandaran Province, Iran<br>
+🇮🇷 My nationality is Iranian<br>
+📞 Contact: (+98) 930 494 3348 (WhatsApp, Telegram)<br>
+📧 Email: pydevcasts@gmail.com<br>
+🌐 GitHub: https://github.com/pydevcasts<br>
+🔗 LinkedIn: https://linkedin.com/in/pydevcasts/
+
+## Personality Description
+Dynamic data scientist with over 10 years of software development experience, including 7 years focused on Python and Django. Expert in creating robust web applications, seamlessly integrating APIs, and harnessing data science libraries such as Pandas, NumPy, and Scikit-learn to generate actionable insights. Committed to continuous learning and innovation, staying at the forefront of industry advancements to drive impactful solutions.
 
 
 ## 🌐 Socials:
