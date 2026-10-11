@@ -52,7 +52,8 @@ and **private institutions** across Mazandaran Province, Iran — teaching
 - Artificial Intelligence (search, optimization, neural networks)
 - Web Development (Django, Vue.js) — *early career focus*
 
----## 👤 Background
+---
+## 👤 Background
 
 **12 years of professional software engineering** across web development
 and machine learning, transitioning into **statistical ML research** for
