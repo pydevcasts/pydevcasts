@@ -52,25 +52,20 @@ and **private institutions** across Mazandaran Province, Iran — teaching
 - Artificial Intelligence (search, optimization, neural networks)
 - Web Development (Django, Vue.js) — *early career focus*
 
----
-
-## 👤 Background
+---## 👤 Background
 
 **12 years of professional software engineering** across web development
 and machine learning, transitioning into **statistical ML research** for
-medical applications. Currently final-semester M.Sc. in Artificial
-Intelligence & Robotics.
+medical applications. Recently graduated M.Sc. in Artificial Intelligence
+& Robotics (GPA: 19.27/20, 2026).
 
 **Machine Learning & AI (7+ years):**
 - **ML/Statistics**: scikit-learn, XGBoost, LightGBM, SHAP, imbalanced-learn
-- **Deep Learning**: PyTorch, TensorFlow
-- **Data**: NumPy, Pandas, Matplotlib, Jupyter
-  
-**Deep Learning:**
-- **Frameworks**: PyTorch, TensorFlow
-- **Architectures**: CNN, RNN, LSTM, Transformer, GAN, VAE, SSGAN
+- **Deep Learning**: PyTorch, TensorFlow — familiar with CNN, RNN, LSTM,
+  Transformer, GAN, VAE, SSGAN
 - **Applications**: Image classification, generative models, medical imaging
-  
+- **Data**: NumPy, Pandas, Matplotlib, Jupyter
+
 **Engineering experience (12 years):**
 - **Backend & Full-Stack**: Python, Django, PHP, Laravel, REST APIs
 - **Frontend**: JavaScript, TypeScript, Vue.js, jQuery, Sass
