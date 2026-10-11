@@ -18,7 +18,7 @@ clinical and multi-omics data, with a focus on **oncology applications**.
 |---|---|---|
 | **[Prostate Cancer BCR Prediction](https://github.com/pydevcasts/prostate-cancer-recurrence-prediction)** | Late Fusion of clinical + RNA-seq | Nested-CV, 4 external cohorts, SHAP, TRIPOD-AI checklist |
 | **[Breast Cancer Recurrence](https://github.com/pydevcasts/breast-cancer-recurrence-prediction)** | METABRIC clinical + genomic | GWO feature selection, nested-CV, SHAP |
-| **[LUAD MultiOmics](https://github.com/pydevcasts/LUAD_MultiOmics)** | mRNA + miRNA + Clinical | Late fusion, PSO, external validation |
+| **[LUAD MultiOmics](https://github.com/pydevcasts/lung-cancer-multiomics-classification)** | mRNA + miRNA + Clinical | Late fusion, PSO, external validation |
 
 ## 🛠️ Research Toolkit
 
