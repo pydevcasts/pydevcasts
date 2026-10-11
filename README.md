@@ -25,9 +25,6 @@ Mazandaran University of Science and Technology, Babol, Iran
   — [Code & Analysis](https://github.com/pydevcasts/prostate-cancer-recurrence-prediction)
 - **Relevant coursework**: Machine Learning, Statistical Learning, Deep Learning, Pattern Recognition, Optimization, Medical Image Analysis
 
-**B.Sc. in [Computer Science / Software Engineering / ...]**
-[University Name], [City], Iran
-
 ---
 ## 👨‍🏫 Teaching Experience
 
