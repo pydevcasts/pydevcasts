@@ -29,18 +29,22 @@ Mazandaran University of Science and Technology, Babol, Iran
 [University Name], [City], Iran
 
 ---
-
 ## 👨‍🏫 Teaching Experience
 
 **Programming & Machine Learning Instructor** *(7+ years)*
-[Institute Name(s)], [City], Iran
 
-- Taught **Python, Machine Learning, and Artificial Intelligence** to
-  **200+ students** across multiple institutions.
-- Developed course materials, hands-on projects, and assessment frameworks
-  for beginner to advanced levels.
-- Mentored students in capstone projects, many of which involved practical
-  ML applications.
+Instructor at **Technical and Vocational Institutes**, **Jahad-e Daneshgahi**,
+and **private institutions** across Mazandaran Province, Iran — teaching
+**200+ students** in Python, Machine Learning, and Artificial Intelligence.
+
+**Institutional teaching:**
+- **Technical & Vocational Training Centers** — Python, Web Development
+- **Jahad-e Daneshgahi (ACECR)** — Machine Learning, Artificial Intelligence
+- **Private institutes** across Babol and Mazandaran — Python, ML, AI
+
+**Private tutoring:**
+- **Domestic (Iran)**: One-on-one and small-group coaching in Python, ML, and AI
+- **International**: Online private tutoring for students abroad
 
 **Teaching areas:**
 - Python Programming (Beginner to Advanced)
@@ -85,7 +89,6 @@ that is increasingly valued in top ML venues.
 | **[Lung Cancer MultiOmics](https://github.com/pydevcasts/lung-cancer-multiomics-classification)** | mRNA + miRNA + Clinical | Late fusion, PSO, external validation |
 
 ---
-
 ## 🛠️ Research Toolkit
 
 **ML / Statistics**
@@ -95,6 +98,10 @@ that is increasingly valued in top ML venues.
 ![LightGBM](https://img.shields.io/badge/LightGBM-%2300A1E3.svg?style=plastic)
 ![SHAP](https://img.shields.io/badge/SHAP-%23FF6F00.svg?style=plastic)
 ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-%23FF6F00.svg?style=plastic)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-%234B0082.svg?style=plastic)
+![Optuna](https://img.shields.io/badge/Optuna-%2300A9E0.svg?style=plastic)
+![scikit-survival](https://img.shields.io/badge/scikit--survival-%23F7931E.svg?style=plastic)
 
 **Deep Learning**
 
@@ -106,7 +113,10 @@ that is increasingly valued in top ML venues.
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=plastic)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-%2300A1E3.svg?style=plastic)
 
 ---
 
