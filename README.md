@@ -65,7 +65,12 @@ Intelligence & Robotics.
 - **ML/Statistics**: scikit-learn, XGBoost, LightGBM, SHAP, imbalanced-learn
 - **Deep Learning**: PyTorch, TensorFlow
 - **Data**: NumPy, Pandas, Matplotlib, Jupyter
-
+  
+**Deep Learning:**
+- **Frameworks**: PyTorch, TensorFlow
+- **Architectures**: CNN, RNN, LSTM, Transformer, GAN, VAE, SSGAN
+- **Applications**: Image classification, generative models, medical imaging
+  
 **Engineering experience (12 years):**
 - **Backend & Full-Stack**: Python, Django, PHP, Laravel, REST APIs
 - **Frontend**: JavaScript, TypeScript, Vue.js, jQuery, Sass
