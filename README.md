@@ -18,7 +18,7 @@ clinical and multi-omics data, with a focus on **oncology applications**.
 
 ## 🎓 Education
 
-**M.Sc. in Artificial Intelligence & Robotics** *(Graduated October 2026)*
+**M.Sc. in Artificial Intelligence & Robotics** *(Graduated September 2026)*
 Mazandaran University of Science and Technology, Babol, Iran
 - **GPA**: 19.27 / 20 (equivalent to ~3.9 / 4.0)
 - **Thesis**: "Leakage-Controlled Late Fusion of Clinical and Transcriptomic Data for Predicting Biochemical Recurrence After Radical Prostatectomy"
@@ -57,14 +57,14 @@ and machine learning, transitioning into **statistical ML research** for
 medical applications. Recently graduated M.Sc. in Artificial Intelligence
 & Robotics (GPA: 19.27/20, 2026).
 
-**Machine Learning & AI (7+ years):**
+**Machine Learning & AI:**
 - **ML/Statistics**: scikit-learn, XGBoost, LightGBM, SHAP, imbalanced-learn
 - **Deep Learning**: PyTorch, TensorFlow — familiar with CNN, RNN, LSTM,
   Transformer, GAN, VAE, SSGAN
 - **Applications**: Image classification, generative models, medical imaging
 - **Data**: NumPy, Pandas, Matplotlib, Jupyter
 
-**Engineering experience (12 years):**
+**Engineering experience:**
 - **Backend & Full-Stack**: Python, Django, PHP, Laravel, REST APIs
 - **Frontend**: JavaScript, TypeScript, Vue.js, jQuery, Sass
 - **Infrastructure**: Docker, Nginx, Redis, PostgreSQL, MySQL, SQLite
