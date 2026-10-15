@@ -28,7 +28,7 @@ Mazandaran University of Science and Technology, Babol, Iran
 ---
 ## 👨‍🏫 Teaching Experience
 
-**Programming & Machine Learning Instructor** *(7+ years)*
+**Programming & Machine Learning Instructor** 
 
 Instructor at **Technical and Vocational Institutes**, **Jahad-e Daneshgahi**,
 and **private institutions** across Mazandaran Province, Iran — teaching
