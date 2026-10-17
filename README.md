@@ -25,7 +25,7 @@ I build **leakage-aware, interpretable machine learning pipelines** for clinical
 
 ## 🎓 Education
 
-**M.Sc. in Artificial Intelligence & Robotics** (graduated September 2026)
+**M.Sc. in Artificial Intelligence & Robotics**
 Mazandaran University of Science and Technology, Babol, Iran
 
 - **Thesis:** *Leakage-Controlled Late Fusion of Clinical and Transcriptomic Data for Predicting Biochemical Recurrence After Radical Prostatectomy*
