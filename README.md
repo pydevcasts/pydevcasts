@@ -17,9 +17,9 @@ I build **leakage-aware, interpretable machine learning pipelines** for clinical
 
 | Project | Focus | Highlights |
 |---|---|---|
-| **[Prostate Cancer BCR Prediction](https://github.com/pydevcasts/prostate-cancer-recurrence-prediction)** | Late fusion of clinical + RNA-seq | M.Sc. thesis; nested CV, 4 external cohorts, SHAP, TRIPOD-AI checklist |
-| **[Breast Cancer Recurrence](https://github.com/pydevcasts/breast-cancer-recurrence-prediction)** | METABRIC clinical + genomic data | GWO feature selection, nested CV, SHAP |
-| **[Lung Cancer Multi-omics](https://github.com/pydevcasts/lung-cancer-multiomics-classification)** | mRNA + miRNA + clinical data | Late fusion, PSO, external validation |
+| **[prostate-cancer-recurrence-prediction](https://github.com/pydevcasts/prostate-cancer-recurrence-prediction)** | Late fusion of clinical + RNA-seq | M.Sc. thesis; nested CV, 4 external cohorts, SHAP, TRIPOD-AI checklist |
+| **[breast-cancer-recurrence-prediction](https://github.com/pydevcasts/breast-cancer-recurrence-prediction)** | METABRIC clinical + genomic data | GWO feature selection, nested CV, SHAP |
+| **[lung-cancer-multiomics-classification](https://github.com/pydevcasts/lung-cancer-multiomics-classification)** | mRNA + miRNA + clinical data | Late fusion, PSO, external validation |
 
 ---
 
