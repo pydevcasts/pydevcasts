@@ -37,7 +37,7 @@ Mazandaran University of Science and Technology, Babol, Iran
 
 I've taught **200+ students** in Python, Machine Learning, and AI through technical and vocational training centers, Jahad-e Daneshgahi (ACECR), and private institutes across Mazandaran, as well as through private tutoring, both in Iran and online for students abroad.
 
-**Topics:** Python, Machine Learning (scikit-learn, XGBoost, model evaluation), AI (search, optimization, neural networks), and Web Development (Django, Vue.js) early in my career.
+**Topics:** Python, Machine Learning (scikit-learn, XGBoost, model evaluation), AI (optimization, neural networks), and Web Development (Django, Vue.js) early in my career.
 
 ---
 
